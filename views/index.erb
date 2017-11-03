@@ -1,0 +1,11 @@
+<h1>Hola</h1>
+
+<% @count = 1 %>
+<% 50.times do %>
+  <% if @count % 2 === 0 %>
+    <%= @count %> Soy Par!<br>
+  <% elsif @count % 2 === 1 %>
+    <%= @count %> Soy Impar!<br>
+  <% end %>
+  <% @count += 1 %>
+<% end %>
