@@ -1,4 +1,4 @@
-Ejemplo de de sinatra con formulario <br>
+Ejemplo de de sinatra del reto de pares e impares <br>
 
 para intalar: <br>
 
